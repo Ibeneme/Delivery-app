@@ -1,0 +1,14 @@
+{
+  "greeting": "Hello!",
+  "farewell": "Goodbye!",
+  "welcome": "Welcome!",
+  "termsAndConditions": "By creating a new user, you agree to our Terms and Conditions",
+  "privacyPolicy": " You also agree to our Privacy Policy.",
+  "clickToRead": "Click to Read",
+  "newUser": "New User",
+  "existingUser": "Existing User",
+  "signupLogistics": "Sign up as Logistics User",
+  "signupLogisticsProvider": "Sign up as Logistics Provider",
+  "alreadyHave": "Already have an account?",
+  "Login": "Login"
+}
